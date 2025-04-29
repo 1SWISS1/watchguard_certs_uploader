@@ -98,5 +98,5 @@ pyinstaller --onefile --hidden-import netmiko --hidden-import pyftpdlib watchgua
 
 ## License
 
-[MIT License](LICENSE)
+[GPL3 License](LICENSE)
 
